@@ -1,0 +1,3 @@
+for demo learning of git
+
+ writing second line
